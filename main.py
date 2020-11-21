@@ -8,10 +8,10 @@ while True:
         number1 =float(input("x= "))                    #Переменная один
         number2 = float(input("y= "))                   #Переменная вторая
         if act == '+':                                  #действие сложение
-            print("Ответ:", (number1 + number2))        #Результат
+            print("Ответ:", (number1 + number2))        #Результат сложения
         elif act == '-':                                #действие вычитание
-            print("Ответ:", (number1 - number2))        #Результат
+            print("Ответ:", (number1 - number2))        #Результат вычетания
         elif act == '*':                                #действие уиножение
-            print("Ответ:", (number1 * number2))        #Результат
+            print("Ответ:", (number1 * number2))        #Результат сложения
         elif act == '/':                                #действие деление
-                print("Ответ:", (number1 / number2))    #Результат
+                print("Ответ:", (number1 / number2))    #Результат деления
